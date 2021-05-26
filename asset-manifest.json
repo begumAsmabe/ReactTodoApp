@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/begumAsmabe/ReactTodoApp.git/static/css/main.62a0187d.chunk.css",
+    "main.js": "/begumAsmabe/ReactTodoApp.git/static/js/main.40020216.chunk.js",
+    "main.js.map": "/begumAsmabe/ReactTodoApp.git/static/js/main.40020216.chunk.js.map",
+    "runtime-main.js": "/begumAsmabe/ReactTodoApp.git/static/js/runtime-main.7ea6d1dd.js",
+    "runtime-main.js.map": "/begumAsmabe/ReactTodoApp.git/static/js/runtime-main.7ea6d1dd.js.map",
+    "static/js/2.5b592a92.chunk.js": "/begumAsmabe/ReactTodoApp.git/static/js/2.5b592a92.chunk.js",
+    "static/js/2.5b592a92.chunk.js.map": "/begumAsmabe/ReactTodoApp.git/static/js/2.5b592a92.chunk.js.map",
+    "index.html": "/begumAsmabe/ReactTodoApp.git/index.html",
+    "precache-manifest.31f56736abe53eb1fa8ee5790326ee55.js": "/begumAsmabe/ReactTodoApp.git/precache-manifest.31f56736abe53eb1fa8ee5790326ee55.js",
+    "service-worker.js": "/begumAsmabe/ReactTodoApp.git/service-worker.js",
+    "static/css/main.62a0187d.chunk.css.map": "/begumAsmabe/ReactTodoApp.git/static/css/main.62a0187d.chunk.css.map",
+    "static/js/2.5b592a92.chunk.js.LICENSE.txt": "/begumAsmabe/ReactTodoApp.git/static/js/2.5b592a92.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/begumAsmabe/ReactTodoApp.git/static/media/imgback.6e02fd31.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ea6d1dd.js",
+    "static/js/2.5b592a92.chunk.js",
+    "static/css/main.62a0187d.chunk.css",
+    "static/js/main.40020216.chunk.js"
+  ]
+}
